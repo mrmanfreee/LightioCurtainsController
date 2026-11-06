@@ -108,8 +108,12 @@ The pulley block is designed for a loop made partly from ball chain and partly f
 ### Prepare the controller
 
 1. Assemble the controller using the [assembly guide](3d-models/Controller/Assembly_Guide.pdf). Check that both end switches operate correctly. If necessary, gently adjust their metal levers.
-2. Flash the firmware and configure WiFi and any WebUI credentials using the [firmware user guide](firmware/instructions.md#3-flashing-the-firmware). Disconnect power before continuing assembly or changing wiring.
-3. Set the stepper driver's microstepping and motor current. The reference mechanism uses **3,200 motor steps per shaft revolution**; match the driver settings to the firmware and motor. Set the current within the motor and driver ratings. Excessive current can cause the driver to overheat or shut down.
+2. Flash the firmware and configure WiFi and any WebUI credentials using the [firmware user guide](firmware/instructions.md#3-flashing-the-firmware). 
+
+Short reference: To turn Access Point mode - press and hold open/close button on remote and reset controller, or use configuration pin. When controller in Access point mode all LEDs will be blinking.
+Disconnect power before continuing assembly or changing wiring.
+
+3. Set the stepper driver's microstepping and motor current. I set almost maximum current. Keep in mind that excessive current can cause the driver to overheat or shut down.
 
 ### Mount the controller and pulley block
 
