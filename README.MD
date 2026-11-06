@@ -2,7 +2,7 @@
 
 ## About the project
 
-Brand: **Lightio art lighting**.
+Brand: **Lightio art lighting ™**.
 
 Smart Curtains Controller turns an ESP32-S3 into a controller for motorized curtains and dimmable lighting. It supports a stepper motor with position feedback and end switches, so you can open, close, or move curtains to a chosen position.
 
