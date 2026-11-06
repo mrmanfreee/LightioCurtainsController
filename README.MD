@@ -18,6 +18,12 @@ Main features:
 
 See the [firmware user guide](firmware/instructions.md) for wiring, flashing, configuration, MQTT topics, and troubleshooting. The [controller assembly guide](3d-models/Controller/Assembly_Guide.pdf) covers mechanical assembly.
 
+## Video demo
+
+- [Controller demo ](https://youtu.be/Y9OxHzuBrEo)
+- [Controller demo (YouTube Short)](https://www.youtube.com/shorts/wfgeleJTWx8)
+- [Controller demo 2](https://youtu.be/F_Q0FNfF7aQ)
+
 ## Project pages
 
 - [GitHub repository](https://github.com/mrmanfreee/BlindShutter)
