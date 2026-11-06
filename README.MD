@@ -31,7 +31,7 @@ All materials are provided “as is.” Functionality is not guaranteed.
 ## Project pages
 
 - [GitHub repository](https://github.com/mrmanfreee/BlindShutter)
-- TODO: Add the MakerWorld project page.
+- [MakerWorld project](https://makerworld.com/en/models/3557140-lightio-curtains-controlle)
 - TODO: Add the Printables project page.
 
 ## Support the project
